@@ -1,0 +1,16 @@
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\bin\Debug\net5.0\EnviarEmail.exe
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\bin\Debug\net5.0\EnviarEmail.deps.json
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\bin\Debug\net5.0\EnviarEmail.runtimeconfig.json
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\bin\Debug\net5.0\EnviarEmail.runtimeconfig.dev.json
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\bin\Debug\net5.0\EnviarEmail.dll
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\bin\Debug\net5.0\ref\EnviarEmail.dll
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\bin\Debug\net5.0\EnviarEmail.pdb
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\obj\Debug\net5.0\EnviarEmail.csproj.AssemblyReference.cache
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\obj\Debug\net5.0\EnviarEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\obj\Debug\net5.0\EnviarEmail.AssemblyInfoInputs.cache
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\obj\Debug\net5.0\EnviarEmail.AssemblyInfo.cs
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\obj\Debug\net5.0\EnviarEmail.csproj.CoreCompileInputs.cache
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\obj\Debug\net5.0\EnviarEmail.dll
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\obj\Debug\net5.0\ref\EnviarEmail.dll
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\obj\Debug\net5.0\EnviarEmail.pdb
+C:\Users\datam\RiderProjects\EnviarEmail\EnviarEmail\obj\Debug\net5.0\EnviarEmail.genruntimeconfig.cache
